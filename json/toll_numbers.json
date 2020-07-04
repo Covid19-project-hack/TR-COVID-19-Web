@@ -1,0 +1,79 @@
+{
+    "data": [
+        {
+            "district": "Bilaspur",
+            "phone_number": "01978-221242",
+            "sno": "1"
+        },
+        {
+            "district": "Chamba",
+            "phone_number": "01899-225170",
+            "sno": "2"
+        },
+        {
+            "district": "Kullu",
+            "phone_number": "01902-222350",
+            "sno": "3"
+        },
+        {
+            "district": "Mandi",
+            "phone_number": "01905-222928",
+            "sno": "4"
+        },
+        {
+            "district": "Mandi",
+            "phone_number": "01907-266283",
+            "sno": "5"
+        },
+        {
+            "district": "Mandi",
+            "phone_number": "01905-243945",
+            "sno": "6"
+        },
+        {
+            "district": "Solan",
+            "phone_number": "01792-223638",
+            "sno": "7"
+        },
+        {
+            "district": "Una",
+            "phone_number": "01899-225170",
+            "sno": "8"
+        },
+        {
+            "district": "Shimla",
+            "phone_number": "0177-2624841",
+            "sno": "9"
+        },
+        {
+            "district": "Hamirpur",
+            "phone_number": "01972-222222",
+            "sno": "10"
+        },
+        {
+            "district": "Kangra",
+            "phone_number": "01892-227595",
+            "sno": "11"
+        },
+        {
+            "district": "Kangra",
+            "phone_number": "01894-234101",
+            "sno": "12"
+        },
+        {
+            "district": "Kangra",
+            "phone_number": "01893-220036",
+            "sno": "13"
+        },
+        {
+            "district": "Sirmaur",
+            "phone_number": "01702-224890",
+            "sno": "14"
+        },
+        {
+            "district": "Sirmaur",
+            "phone_number": "01702-224890",
+            "sno": "15"
+        }
+    ]
+}
