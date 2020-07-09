@@ -1,10 +1,9 @@
 {
-    "apiKey": "AIzaSyArgoFv3v9GinDsuZqlqKs19KBDdQqnvNQ",
-    "authDomain": "test-71c2f.firebaseapp.com",
-    "databaseURL": "https://test-71c2f.firebaseio.com",
-    "projectId": "test-71c2f",
-    "storageBucket": "test-71c2f.appspot.com",
-    "messagingSenderId": "957572362298",
-    "appId": "1:957572362298:web:4a9932b169841ef879c503",
-    "measurementId": "G-ZYFXJ6RZV4"
-}
+    "apiKey": "AIzaSyBkBYkEHzG8jyr08ScJ6eEuSVMX6jC-FRg",
+    "authDomain": "hp-covid-19-project.firebaseapp.com",
+    "databaseURL": "https://hp-covid-19-project.firebaseio.com",
+    "projectId": "hp-covid-19-project",
+    "storageBucket": "hp-covid-19-project.appspot.com",
+    "messagingSenderId": "329703195062",
+    "appId": "1:329703195062:web:1048a07858c9f44ce3c117"
+  }
