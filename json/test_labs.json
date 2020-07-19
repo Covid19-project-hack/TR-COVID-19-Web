@@ -2,63 +2,9 @@
     "data": [
         {
             "sno": "1",
-            "name": "Indira Gandhi Medical College, Shimla",
+            "name": "Govt. Medical College, Agartala",
             "type": "Government",
             "test_type": "RT-PCR"
-        },
-        {
-            "sno": "2",
-            "name": " Dr Rajendra Prasad Govt Medical College, Tanda",
-            "type": "Government",
-            "test_type": "RT-PCR"
-        },
-        {
-            "sno": "3",
-            "name": " Central Research Institute, Kasauli ",
-            "type": "Government",
-            "test_type": "RT-PCR"
-        },
-        {
-            "sno": "4",
-            "name": " Shri Lal Bahadur Shastri Govt Medical College, Mandi",
-            "type": "Government",
-            "test_type": "RT-PCR"
-        },
-        {
-            "sno": "5",
-            "name": " CSIR Institute of Himalayan Bioresource Technology, Palampur",
-            "type": "Government",
-            "test_type": "RT-PCR"
-        },
-        {
-            "sno": "6",
-            "name": " Dr Yashwant Singh Parmar Government Medical College, Nahan",
-            "type": "Government",
-            "test_type": "RT-PCR"
-        },
-        {
-            "sno": "7",
-            "name": " Pt JLN Government Medical College and Hospital, Chamba ",
-            "type": "Government",
-            "test_type": "RT-PCR"
-        },
-        {
-            "sno": "8",
-            "name": " Zonal Hospital, Mandi",
-            "type": "Government",
-            "test_type": "TrueNat"
-        },
-        {
-            "sno": "9",
-            "name": " Dr Radhakrishnan Government Medical College, Hamirpur",
-            "type": "Government",
-            "test_type": "TrueNat"
-        },
-        {
-            "sno": "10",
-            "name": " Regional Hospital, Una ",
-            "type": "Government",
-            "test_type": "TrueNat"
         }
     ]
 }

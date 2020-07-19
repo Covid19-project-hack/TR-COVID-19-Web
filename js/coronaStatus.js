@@ -3,7 +3,7 @@ $(document).ready(function () {
     type: "GET",
     url: "https://api.covid19india.org/state_district_wise.json",
     success: function (returnedData) {
-      const district_data = returnedData["Himachal Pradesh"].districtData;
+      const district_data = returnedData["Tripura"].districtData;
       populateData(district_data);
     },
   });
